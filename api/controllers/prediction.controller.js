@@ -2,12 +2,13 @@ import ort from 'onnxruntime-node';
 import path from 'path';
 import { fileURLToPath } from 'url';
 
+// Fix relative path issue
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const saleModelPath = path.join(__dirname, '..', 'House_Price_Pridiction', 'best_sale_model.onnx');
-const rentModelPath = path.join(__dirname, '..', 'House_Price_Pridiction', 'best_rent_model.onnx');
-
+// Always resolve ONNX files relative to this controller file
+const saleModelPath = path.join(__dirname, 'best_sale_model.onnx');
+const rentModelPath = path.join(__dirname, 'best_rent_model.onnx');
 
 // Features order used while training
 const features = [
@@ -68,7 +69,7 @@ export const predictPrice = async (req, res, next) => {
     const { type } = req.body;
     const modelPath = type === 'sale' ? saleModelPath : rentModelPath;
 
-    console.log('Loading model from:', modelPath);
+     
 
     // Run model
     const prediction = await runPrediction(modelPath, req.body);
