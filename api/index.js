@@ -10,8 +10,15 @@ import cookieParser from 'cookie-parser';
 import path from 'path';
 dotenv.config();
 
+const options = {
+  useNewUrlParser: true,
+  useUnifiedTopology: true,
+  serverSelectionTimeoutMS: 50000 // 10 seconds timeout
+};
+
+// Connect to MongoDB
 mongoose
-  .connect(process.env.MONGO, { useNewUrlParser: true, useUnifiedTopology: true })
+  .connect(process.env.MONGO, options)
   .then(() => {
     console.log('Connected to MongoDB!');
   })
