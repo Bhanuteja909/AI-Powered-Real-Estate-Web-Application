@@ -1,7 +1,8 @@
 import ort from 'onnxruntime-node';
+import path from 'path';
 
-const saleModelPath = 'api\controllers\best_rent_model.onnx';
-const rentModelPath = 'api\controllers\best_rent_model.onnx';
+const saleModelPath = path.join(__dirname, '..', 'House_Price_Pridiction', 'best_sale_model.onnx');
+const rentModelPath = path.join(__dirname, '..', 'House_Price_Pridiction', 'best_rent_model.onnx');
 
 
 // Features order used while training
