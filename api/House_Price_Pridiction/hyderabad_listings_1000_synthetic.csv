@@ -1,0 +1,1001 @@
+Area,Listing_Type,Parking,Furnished,Bedrooms,Bathrooms,Size_Sqft,Price,Price_Type
+Kompally,Sale,Yes,No,3,2,1403,9864199,Sale_Price_INR
+ECIL,Rent,Yes,No,2,2,1087,13148,Monthly_Rent_INR
+ECIL,Rent,Yes,No,3,2,1345,16496,Monthly_Rent_INR
+Alwal,Rent,Yes,No,2,1,1071,13921,Monthly_Rent_INR
+Ameerpet,Sale,Yes,No,2,2,1199,7727952,Sale_Price_INR
+Alwal,Rent,No,No,2,2,834,9027,Monthly_Rent_INR
+Alwal,Sale,No,No,2,2,1326,8201878,Sale_Price_INR
+Kompally,Rent,Yes,No,3,2,1243,20081,Monthly_Rent_INR
+Bowenpally,Sale,No,No,2,1,1079,8631459,Sale_Price_INR
+Madhapur,Sale,No,No,2,1,1168,11753664,Sale_Price_INR
+Bowenpally,Rent,Yes,No,2,1,1012,13769,Monthly_Rent_INR
+Hitech City,Sale,No,No,2,1,1245,12523803,Sale_Price_INR
+Alwal,Rent,Yes,No,2,2,1087,13212,Monthly_Rent_INR
+Sainikpuri,Rent,Yes,Yes,2,2,930,8004,Monthly_Rent_INR
+Sainikpuri,Sale,Yes,No,2,1,904,5871251,Sale_Price_INR
+Bowenpally,Sale,Yes,Yes,2,2,1028,7339817,Sale_Price_INR
+Gachibowli,Sale,Yes,No,1,1,637,8253663,Sale_Price_INR
+Bowenpally,Sale,Yes,No,2,2,1085,8282848,Sale_Price_INR
+ECIL,Rent,No,No,2,2,1156,13593,Monthly_Rent_INR
+Kukatpally,Sale,Yes,Yes,2,2,913,5524453,Sale_Price_INR
+Kompally,Sale,Yes,Yes,2,2,977,7683898,Sale_Price_INR
+Madhapur,Sale,Yes,Yes,2,2,1011,11502943,Sale_Price_INR
+Kukatpally,Rent,Yes,No,3,3,1384,28300,Monthly_Rent_INR
+Kompally,Rent,Yes,No,1,1,693,12304,Monthly_Rent_INR
+Gachibowli,Rent,Yes,No,2,2,1076,44486,Monthly_Rent_INR
+Gachibowli,Rent,Yes,No,2,2,962,33846,Monthly_Rent_INR
+Madhapur,Sale,Yes,No,1,1,462,5497550,Sale_Price_INR
+Sainikpuri,Rent,Yes,No,3,2,1321,14126,Monthly_Rent_INR
+Sainikpuri,Rent,No,Yes,2,2,1076,10672,Monthly_Rent_INR
+Sainikpuri,Sale,No,No,2,1,1150,6984756,Sale_Price_INR
+Kukatpally,Sale,Yes,Yes,2,2,1030,5904617,Sale_Price_INR
+Madhapur,Sale,Yes,No,4,4,2063,22520387,Sale_Price_INR
+Alwal,Rent,Yes,No,2,2,1140,12022,Monthly_Rent_INR
+Ameerpet,Rent,No,No,1,1,651,17383,Monthly_Rent_INR
+Kukatpally,Sale,Yes,Yes,3,3,1167,7447812,Sale_Price_INR
+Madhapur,Rent,Yes,No,2,2,827,30536,Monthly_Rent_INR
+Alwal,Rent,No,Yes,2,2,978,9762,Monthly_Rent_INR
+Kompally,Sale,No,No,2,2,1104,7256622,Sale_Price_INR
+Sainikpuri,Sale,No,No,2,2,895,5746414,Sale_Price_INR
+Hitech City,Rent,No,No,2,1,963,36059,Monthly_Rent_INR
+Kukatpally,Sale,Yes,No,2,2,993,5721829,Sale_Price_INR
+Hitech City,Sale,No,No,3,3,1316,16197448,Sale_Price_INR
+Kukatpally,Rent,No,No,2,2,1012,21739,Monthly_Rent_INR
+Sainikpuri,Rent,Yes,No,2,2,983,9446,Monthly_Rent_INR
+Gachibowli,Sale,Yes,No,2,2,1066,13003544,Sale_Price_INR
+Gachibowli,Sale,Yes,No,4,4,1778,22434139,Sale_Price_INR
+Sainikpuri,Sale,Yes,No,4,4,1866,11332812,Sale_Price_INR
+Alwal,Sale,Yes,No,1,1,579,4280589,Sale_Price_INR
+Ameerpet,Sale,No,No,2,2,771,4994389,Sale_Price_INR
+Bowenpally,Rent,No,No,2,2,922,15678,Monthly_Rent_INR
+Kompally,Sale,Yes,No,3,3,1227,9029853,Sale_Price_INR
+Bowenpally,Rent,Yes,No,4,4,1485,21812,Monthly_Rent_INR
+Gachibowli,Sale,Yes,No,2,2,1000,10389742,Sale_Price_INR
+Kompally,Rent,Yes,Yes,2,1,1184,26711,Monthly_Rent_INR
+Hitech City,Sale,Yes,Yes,2,1,1274,15745964,Sale_Price_INR
+Hitech City,Rent,Yes,Yes,2,1,881,37150,Monthly_Rent_INR
+Alwal,Sale,Yes,No,2,1,1155,7589523,Sale_Price_INR
+Hitech City,Rent,Yes,No,2,2,1041,44126,Monthly_Rent_INR
+Gachibowli,Sale,Yes,No,4,3,1758,19833168,Sale_Price_INR
+Bowenpally,Rent,Yes,No,2,2,1099,16632,Monthly_Rent_INR
+Gachibowli,Sale,Yes,No,2,2,1154,12724152,Sale_Price_INR
+Hitech City,Rent,Yes,No,1,1,606,24287,Monthly_Rent_INR
+Kompally,Rent,No,No,3,2,1343,22088,Monthly_Rent_INR
+Gachibowli,Sale,Yes,Yes,2,1,1089,13290044,Sale_Price_INR
+Alwal,Rent,No,Yes,2,2,1127,14739,Monthly_Rent_INR
+Alwal,Rent,Yes,No,2,1,911,11021,Monthly_Rent_INR
+Alwal,Rent,Yes,No,3,3,1250,13518,Monthly_Rent_INR
+Bowenpally,Sale,Yes,No,2,2,928,6272257,Sale_Price_INR
+Hitech City,Sale,No,No,2,2,1050,11730199,Sale_Price_INR
+Kompally,Sale,No,No,1,1,590,4156104,Sale_Price_INR
+Madhapur,Rent,No,No,2,2,1025,34294,Monthly_Rent_INR
+Ameerpet,Rent,Yes,Yes,2,1,895,24203,Monthly_Rent_INR
+Kompally,Rent,Yes,No,2,1,1286,20189,Monthly_Rent_INR
+ECIL,Rent,No,Yes,2,2,1114,12021,Monthly_Rent_INR
+Gachibowli,Rent,No,No,2,2,1138,39316,Monthly_Rent_INR
+Gachibowli,Sale,No,No,2,2,922,10442273,Sale_Price_INR
+Alwal,Sale,No,Yes,2,2,1065,7595386,Sale_Price_INR
+Hitech City,Rent,Yes,No,2,2,1195,46322,Monthly_Rent_INR
+Kompally,Sale,Yes,Yes,2,1,1155,9846473,Sale_Price_INR
+Kukatpally,Rent,Yes,Yes,3,3,1231,30957,Monthly_Rent_INR
+Alwal,Rent,Yes,Yes,4,4,1567,21546,Monthly_Rent_INR
+Hitech City,Sale,Yes,Yes,1,1,657,7581884,Sale_Price_INR
+Gachibowli,Sale,No,No,2,1,1018,11920083,Sale_Price_INR
+Hitech City,Rent,No,Yes,3,3,1652,58559,Monthly_Rent_INR
+Kukatpally,Rent,Yes,No,2,2,1111,25803,Monthly_Rent_INR
+Kompally,Rent,Yes,No,1,1,484,8084,Monthly_Rent_INR
+Sainikpuri,Rent,No,No,2,2,970,10037,Monthly_Rent_INR
+ECIL,Sale,Yes,No,3,3,1497,8473224,Sale_Price_INR
+ECIL,Sale,Yes,No,3,3,1424,7134384,Sale_Price_INR
+Kukatpally,Sale,Yes,No,2,2,1196,6952212,Sale_Price_INR
+Kukatpally,Sale,Yes,No,4,4,1771,10563985,Sale_Price_INR
+Ameerpet,Rent,Yes,No,4,4,2140,50415,Monthly_Rent_INR
+Kompally,Rent,No,No,2,2,1179,19449,Monthly_Rent_INR
+Gachibowli,Sale,Yes,Yes,1,1,502,6621341,Sale_Price_INR
+ECIL,Sale,Yes,No,2,2,1211,5913490,Sale_Price_INR
+Ameerpet,Rent,No,No,3,2,1492,33917,Monthly_Rent_INR
+ECIL,Sale,No,No,2,1,885,3824678,Sale_Price_INR
+Hitech City,Sale,Yes,No,2,2,944,9778794,Sale_Price_INR
+Hitech City,Rent,No,No,2,2,965,33917,Monthly_Rent_INR
+Bowenpally,Rent,No,No,4,3,2033,27106,Monthly_Rent_INR
+ECIL,Rent,Yes,No,2,2,1104,13685,Monthly_Rent_INR
+Kukatpally,Sale,Yes,No,2,2,1075,5987209,Sale_Price_INR
+Sainikpuri,Rent,Yes,No,3,3,1275,13277,Monthly_Rent_INR
+Gachibowli,Sale,Yes,No,1,1,589,7146100,Sale_Price_INR
+Alwal,Rent,Yes,No,3,3,1356,15382,Monthly_Rent_INR
+Alwal,Sale,Yes,Yes,1,1,663,5443059,Sale_Price_INR
+Kompally,Sale,Yes,No,3,3,1338,10210473,Sale_Price_INR
+Sainikpuri,Rent,Yes,No,3,3,1444,14492,Monthly_Rent_INR
+Madhapur,Rent,Yes,No,2,2,964,31325,Monthly_Rent_INR
+Sainikpuri,Rent,No,Yes,1,1,528,5734,Monthly_Rent_INR
+Kompally,Rent,No,No,2,1,1189,19834,Monthly_Rent_INR
+Bowenpally,Rent,Yes,No,3,3,1431,20233,Monthly_Rent_INR
+Sainikpuri,Sale,Yes,Yes,2,2,1034,7108998,Sale_Price_INR
+Bowenpally,Sale,Yes,No,2,1,897,6479478,Sale_Price_INR
+Hitech City,Sale,No,No,3,3,1284,13946265,Sale_Price_INR
+Ameerpet,Sale,Yes,Yes,2,2,993,7491015,Sale_Price_INR
+Madhapur,Sale,No,Yes,3,3,1489,17718824,Sale_Price_INR
+Sainikpuri,Rent,Yes,No,2,1,1072,10167,Monthly_Rent_INR
+Kompally,Rent,No,No,1,1,576,9664,Monthly_Rent_INR
+Gachibowli,Sale,Yes,No,3,3,1691,16976316,Sale_Price_INR
+Bowenpally,Sale,No,No,1,1,632,4866092,Sale_Price_INR
+Ameerpet,Rent,Yes,No,2,2,989,24765,Monthly_Rent_INR
+ECIL,Rent,No,Yes,2,1,918,12618,Monthly_Rent_INR
+Gachibowli,Sale,Yes,No,2,2,951,9192020,Sale_Price_INR
+Gachibowli,Sale,Yes,Yes,3,3,1462,17238501,Sale_Price_INR
+Kompally,Sale,Yes,No,3,3,1502,10875227,Sale_Price_INR
+Kompally,Sale,No,No,2,2,1076,7073059,Sale_Price_INR
+Ameerpet,Sale,No,Yes,2,2,942,6725910,Sale_Price_INR
+Bowenpally,Rent,No,Yes,3,3,1393,23213,Monthly_Rent_INR
+Bowenpally,Rent,Yes,No,2,2,976,14586,Monthly_Rent_INR
+Kompally,Sale,Yes,No,2,2,1109,8378942,Sale_Price_INR
+Bowenpally,Sale,Yes,Yes,2,2,1057,9873983,Sale_Price_INR
+Gachibowli,Sale,Yes,Yes,2,1,1124,14000694,Sale_Price_INR
+Sainikpuri,Rent,No,No,2,2,1166,11370,Monthly_Rent_INR
+Kompally,Sale,Yes,No,2,2,1241,8795212,Sale_Price_INR
+Hitech City,Sale,No,No,1,1,513,5819943,Sale_Price_INR
+Madhapur,Sale,Yes,Yes,2,2,987,11575995,Sale_Price_INR
+Gachibowli,Sale,Yes,No,2,1,865,9980505,Sale_Price_INR
+Hitech City,Rent,No,No,2,1,1147,45344,Monthly_Rent_INR
+Hitech City,Rent,Yes,No,3,3,1275,48812,Monthly_Rent_INR
+Hitech City,Sale,Yes,No,1,1,641,7660377,Sale_Price_INR
+Gachibowli,Sale,No,No,4,3,1763,20348796,Sale_Price_INR
+ECIL,Rent,Yes,No,3,2,1573,18586,Monthly_Rent_INR
+Gachibowli,Rent,Yes,Yes,2,1,974,41012,Monthly_Rent_INR
+Bowenpally,Rent,No,No,1,1,635,9555,Monthly_Rent_INR
+Sainikpuri,Rent,Yes,No,2,2,1000,9229,Monthly_Rent_INR
+Bowenpally,Rent,Yes,No,3,3,1503,21198,Monthly_Rent_INR
+Gachibowli,Rent,Yes,No,2,2,977,36197,Monthly_Rent_INR
+Bowenpally,Sale,Yes,No,2,2,1064,8094345,Sale_Price_INR
+Kukatpally,Sale,No,Yes,2,2,1145,6640294,Sale_Price_INR
+Alwal,Rent,No,Yes,2,2,956,11399,Monthly_Rent_INR
+Madhapur,Rent,Yes,Yes,2,2,1005,34705,Monthly_Rent_INR
+Sainikpuri,Rent,No,Yes,4,4,1851,18767,Monthly_Rent_INR
+Ameerpet,Rent,Yes,No,2,2,1178,34352,Monthly_Rent_INR
+Sainikpuri,Rent,No,No,4,3,1774,17161,Monthly_Rent_INR
+Ameerpet,Rent,No,No,2,1,866,21638,Monthly_Rent_INR
+Kukatpally,Sale,No,Yes,2,2,1025,5288701,Sale_Price_INR
+Alwal,Rent,Yes,No,2,1,978,11668,Monthly_Rent_INR
+Hitech City,Sale,Yes,No,3,2,1162,12933190,Sale_Price_INR
+Bowenpally,Rent,Yes,No,2,1,1235,18296,Monthly_Rent_INR
+Kompally,Sale,Yes,Yes,2,2,1288,9244810,Sale_Price_INR
+ECIL,Rent,Yes,No,3,2,1375,16033,Monthly_Rent_INR
+Alwal,Rent,Yes,Yes,2,2,1145,14383,Monthly_Rent_INR
+Alwal,Sale,Yes,Yes,2,2,1065,7411248,Sale_Price_INR
+Bowenpally,Rent,Yes,No,2,1,939,15418,Monthly_Rent_INR
+Alwal,Rent,No,No,3,2,1212,12623,Monthly_Rent_INR
+Gachibowli,Rent,Yes,Yes,2,2,1153,47600,Monthly_Rent_INR
+Alwal,Rent,Yes,No,2,1,998,11064,Monthly_Rent_INR
+Kukatpally,Rent,Yes,No,3,2,1397,35720,Monthly_Rent_INR
+Kukatpally,Sale,Yes,Yes,3,3,1334,6821177,Sale_Price_INR
+Kukatpally,Sale,No,Yes,3,3,1585,9110976,Sale_Price_INR
+Ameerpet,Rent,No,No,2,1,1103,26264,Monthly_Rent_INR
+Madhapur,Rent,Yes,No,2,2,901,28213,Monthly_Rent_INR
+Sainikpuri,Rent,Yes,No,2,1,1010,10330,Monthly_Rent_INR
+Ameerpet,Rent,Yes,Yes,2,2,965,27560,Monthly_Rent_INR
+Kukatpally,Sale,Yes,No,2,2,1066,6002386,Sale_Price_INR
+Gachibowli,Rent,Yes,No,2,2,1147,44732,Monthly_Rent_INR
+Gachibowli,Rent,No,No,3,3,1516,59790,Monthly_Rent_INR
+Bowenpally,Rent,Yes,Yes,3,2,1225,22271,Monthly_Rent_INR
+Alwal,Rent,No,Yes,2,2,1137,12464,Monthly_Rent_INR
+Ameerpet,Sale,Yes,No,3,3,1607,13105588,Sale_Price_INR
+Alwal,Sale,No,Yes,2,2,1242,9100056,Sale_Price_INR
+Kukatpally,Sale,Yes,Yes,2,2,1050,5627455,Sale_Price_INR
+Kompally,Rent,No,No,2,2,1104,17438,Monthly_Rent_INR
+Bowenpally,Rent,No,Yes,2,2,1055,18604,Monthly_Rent_INR
+Madhapur,Rent,Yes,No,2,2,1204,43615,Monthly_Rent_INR
+Kukatpally,Rent,Yes,Yes,2,2,1149,27129,Monthly_Rent_INR
+Kukatpally,Sale,Yes,No,2,2,1071,6213129,Sale_Price_INR
+Sainikpuri,Sale,Yes,Yes,2,1,932,6413099,Sale_Price_INR
+ECIL,Sale,No,Yes,2,2,1159,5974080,Sale_Price_INR
+Sainikpuri,Rent,No,Yes,2,2,990,11172,Monthly_Rent_INR
+Bowenpally,Sale,Yes,Yes,3,3,1250,10554606,Sale_Price_INR
+Alwal,Sale,No,Yes,3,3,1337,10266805,Sale_Price_INR
+Madhapur,Sale,Yes,No,3,3,1448,16122633,Sale_Price_INR
+Gachibowli,Sale,Yes,No,3,2,1298,14988096,Sale_Price_INR
+Ameerpet,Rent,No,No,3,3,1463,33989,Monthly_Rent_INR
+Kukatpally,Rent,No,No,4,4,2246,60501,Monthly_Rent_INR
+Gachibowli,Rent,Yes,No,2,2,1231,48724,Monthly_Rent_INR
+Alwal,Rent,Yes,Yes,2,2,1097,12993,Monthly_Rent_INR
+Hitech City,Sale,Yes,No,2,1,917,10876143,Sale_Price_INR
+Hitech City,Rent,No,No,2,2,1040,40700,Monthly_Rent_INR
+Kompally,Sale,Yes,Yes,2,2,815,6274004,Sale_Price_INR
+Alwal,Rent,No,No,2,2,1066,9821,Monthly_Rent_INR
+Kompally,Rent,No,Yes,2,2,987,17876,Monthly_Rent_INR
+Bowenpally,Sale,Yes,No,2,2,1129,8353601,Sale_Price_INR
+Kompally,Rent,Yes,No,3,3,1355,21151,Monthly_Rent_INR
+Madhapur,Sale,No,No,3,2,1215,12598773,Sale_Price_INR
+Sainikpuri,Rent,Yes,No,1,1,662,5890,Monthly_Rent_INR
+Ameerpet,Rent,Yes,No,2,2,963,23180,Monthly_Rent_INR
+Bowenpally,Rent,Yes,No,2,2,1185,17596,Monthly_Rent_INR
+Hitech City,Sale,Yes,Yes,2,2,959,10826298,Sale_Price_INR
+Madhapur,Sale,Yes,Yes,2,1,1061,11642401,Sale_Price_INR
+Sainikpuri,Sale,Yes,No,2,2,1180,7276423,Sale_Price_INR
+Bowenpally,Rent,Yes,No,3,3,1487,21232,Monthly_Rent_INR
+Alwal,Sale,No,No,3,3,1437,8787018,Sale_Price_INR
+Kukatpally,Rent,Yes,No,4,4,1684,40692,Monthly_Rent_INR
+Alwal,Rent,Yes,No,2,2,1069,11380,Monthly_Rent_INR
+Gachibowli,Sale,No,No,2,2,1233,14040037,Sale_Price_INR
+Sainikpuri,Rent,Yes,Yes,3,2,1454,15990,Monthly_Rent_INR
+ECIL,Rent,No,No,3,3,1262,13109,Monthly_Rent_INR
+Kukatpally,Sale,Yes,No,2,2,983,4998348,Sale_Price_INR
+ECIL,Sale,Yes,No,2,2,1011,5424302,Sale_Price_INR
+Sainikpuri,Rent,Yes,Yes,2,2,1189,12890,Monthly_Rent_INR
+Hitech City,Sale,No,Yes,2,1,1025,11570473,Sale_Price_INR
+Bowenpally,Rent,No,No,2,2,999,15479,Monthly_Rent_INR
+Hitech City,Sale,Yes,Yes,2,2,1147,12322211,Sale_Price_INR
+Kompally,Rent,Yes,No,3,2,1386,24399,Monthly_Rent_INR
+Kukatpally,Sale,No,No,2,1,947,5427573,Sale_Price_INR
+Sainikpuri,Sale,Yes,No,2,2,1022,6836221,Sale_Price_INR
+Kompally,Sale,Yes,Yes,2,1,1170,9594317,Sale_Price_INR
+Kukatpally,Sale,Yes,No,3,3,1319,8064191,Sale_Price_INR
+Sainikpuri,Sale,Yes,Yes,3,3,1375,8745954,Sale_Price_INR
+Ameerpet,Rent,No,No,1,1,479,10262,Monthly_Rent_INR
+Kompally,Rent,Yes,Yes,2,1,955,18674,Monthly_Rent_INR
+Hitech City,Sale,Yes,No,2,1,1036,10427172,Sale_Price_INR
+Hitech City,Sale,Yes,No,2,2,1048,12179928,Sale_Price_INR
+Gachibowli,Sale,Yes,Yes,2,2,1042,11463467,Sale_Price_INR
+Sainikpuri,Sale,Yes,No,1,1,548,3187615,Sale_Price_INR
+Madhapur,Sale,Yes,No,2,2,1137,12227176,Sale_Price_INR
+Kukatpally,Sale,No,No,2,2,898,4724292,Sale_Price_INR
+Hitech City,Sale,No,No,2,1,872,10720391,Sale_Price_INR
+Gachibowli,Sale,Yes,No,3,3,1331,15053709,Sale_Price_INR
+Kompally,Rent,Yes,No,3,3,1583,27372,Monthly_Rent_INR
+ECIL,Rent,Yes,No,3,3,1374,13671,Monthly_Rent_INR
+Kukatpally,Rent,Yes,No,2,2,938,22504,Monthly_Rent_INR
+Madhapur,Sale,Yes,No,3,3,1386,15809147,Sale_Price_INR
+Ameerpet,Rent,Yes,No,2,1,1306,30104,Monthly_Rent_INR
+Hitech City,Sale,Yes,Yes,3,3,1419,16489640,Sale_Price_INR
+Hitech City,Sale,Yes,No,2,1,1119,13113484,Sale_Price_INR
+Gachibowli,Rent,Yes,No,2,2,1292,41108,Monthly_Rent_INR
+Hitech City,Sale,Yes,Yes,2,2,1152,13252117,Sale_Price_INR
+Sainikpuri,Sale,No,No,2,1,995,6483273,Sale_Price_INR
+ECIL,Sale,Yes,Yes,2,2,1283,7031082,Sale_Price_INR
+Bowenpally,Rent,Yes,Yes,1,1,623,10237,Monthly_Rent_INR
+Kukatpally,Rent,Yes,No,3,3,1529,37666,Monthly_Rent_INR
+Kukatpally,Sale,Yes,No,2,2,880,5241051,Sale_Price_INR
+Kompally,Sale,No,Yes,2,2,1156,9474057,Sale_Price_INR
+Sainikpuri,Rent,No,No,2,2,1081,11301,Monthly_Rent_INR
+Sainikpuri,Rent,Yes,No,2,1,928,9693,Monthly_Rent_INR
+Hitech City,Sale,Yes,No,2,1,1003,10570366,Sale_Price_INR
+ECIL,Rent,Yes,Yes,1,1,614,7109,Monthly_Rent_INR
+Ameerpet,Sale,Yes,No,3,2,1658,12041036,Sale_Price_INR
+Hitech City,Sale,No,Yes,2,2,1108,14387343,Sale_Price_INR
+Gachibowli,Sale,No,No,2,1,1022,10483165,Sale_Price_INR
+Kukatpally,Sale,Yes,No,2,1,1081,5980854,Sale_Price_INR
+Bowenpally,Sale,Yes,No,2,2,1272,10751404,Sale_Price_INR
+ECIL,Rent,Yes,Yes,2,1,1009,12623,Monthly_Rent_INR
+Kukatpally,Rent,Yes,No,4,3,1909,46136,Monthly_Rent_INR
+Alwal,Sale,No,No,2,1,1095,7121037,Sale_Price_INR
+Kukatpally,Rent,Yes,No,1,1,632,15783,Monthly_Rent_INR
+Ameerpet,Rent,No,No,2,2,999,25756,Monthly_Rent_INR
+Madhapur,Rent,Yes,Yes,3,3,1524,50403,Monthly_Rent_INR
+Sainikpuri,Sale,Yes,Yes,2,2,930,5696277,Sale_Price_INR
+Gachibowli,Sale,Yes,No,2,2,978,10083231,Sale_Price_INR
+Kompally,Sale,Yes,No,2,1,1059,7357460,Sale_Price_INR
+Hitech City,Sale,Yes,No,2,2,942,10719152,Sale_Price_INR
+Madhapur,Rent,Yes,No,2,2,1037,35527,Monthly_Rent_INR
+Alwal,Sale,Yes,No,3,2,1715,12697348,Sale_Price_INR
+Hitech City,Sale,Yes,No,2,2,1045,11229995,Sale_Price_INR
+ECIL,Rent,Yes,No,2,2,953,12184,Monthly_Rent_INR
+Kompally,Rent,Yes,Yes,2,2,949,17330,Monthly_Rent_INR
+ECIL,Sale,Yes,No,1,1,512,2394547,Sale_Price_INR
+Gachibowli,Sale,Yes,No,2,2,1035,11365213,Sale_Price_INR
+Gachibowli,Sale,Yes,No,1,1,569,6696456,Sale_Price_INR
+Gachibowli,Rent,No,No,2,2,1355,50658,Monthly_Rent_INR
+ECIL,Sale,No,Yes,2,2,919,5761229,Sale_Price_INR
+Kukatpally,Sale,No,Yes,2,1,1318,7527266,Sale_Price_INR
+Ameerpet,Rent,Yes,No,2,1,953,23252,Monthly_Rent_INR
+Gachibowli,Rent,Yes,No,2,2,810,33136,Monthly_Rent_INR
+Sainikpuri,Rent,No,Yes,2,1,1088,9931,Monthly_Rent_INR
+Sainikpuri,Rent,No,Yes,3,3,1544,15855,Monthly_Rent_INR
+ECIL,Sale,Yes,No,3,3,1310,6869418,Sale_Price_INR
+Kompally,Sale,Yes,No,2,1,1142,8426025,Sale_Price_INR
+Ameerpet,Sale,Yes,No,2,2,1091,7004486,Sale_Price_INR
+Kukatpally,Rent,Yes,Yes,2,2,1130,26211,Monthly_Rent_INR
+Ameerpet,Rent,Yes,Yes,2,1,1021,25843,Monthly_Rent_INR
+Sainikpuri,Sale,Yes,No,1,1,559,3400197,Sale_Price_INR
+Ameerpet,Rent,No,Yes,2,2,848,21967,Monthly_Rent_INR
+Hitech City,Sale,Yes,No,2,2,1081,13822875,Sale_Price_INR
+Madhapur,Rent,Yes,No,4,4,1203,38427,Monthly_Rent_INR
+Kompally,Sale,Yes,Yes,1,1,572,4068842,Sale_Price_INR
+Ameerpet,Rent,Yes,Yes,2,1,1063,32014,Monthly_Rent_INR
+Ameerpet,Sale,Yes,Yes,2,2,1028,6929204,Sale_Price_INR
+Ameerpet,Sale,Yes,No,3,3,1485,10660239,Sale_Price_INR
+ECIL,Rent,Yes,No,4,4,1471,17559,Monthly_Rent_INR
+Sainikpuri,Sale,Yes,No,3,3,1272,7437207,Sale_Price_INR
+Kukatpally,Sale,Yes,No,2,2,1298,7005032,Sale_Price_INR
+Kompally,Rent,Yes,Yes,2,1,1139,24169,Monthly_Rent_INR
+Sainikpuri,Rent,Yes,No,3,3,1124,10307,Monthly_Rent_INR
+Kompally,Rent,Yes,Yes,2,1,1021,19499,Monthly_Rent_INR
+Kompally,Rent,No,Yes,2,2,864,17471,Monthly_Rent_INR
+Kompally,Sale,No,Yes,2,2,1004,7257422,Sale_Price_INR
+Kompally,Rent,Yes,No,2,1,1171,21915,Monthly_Rent_INR
+ECIL,Rent,Yes,No,2,1,1225,14937,Monthly_Rent_INR
+Ameerpet,Rent,Yes,Yes,3,3,1359,36884,Monthly_Rent_INR
+Ameerpet,Sale,Yes,Yes,2,1,1204,9719011,Sale_Price_INR
+Gachibowli,Sale,Yes,Yes,2,2,1118,13834267,Sale_Price_INR
+Kukatpally,Rent,No,No,3,3,1248,28908,Monthly_Rent_INR
+ECIL,Rent,Yes,No,1,1,571,6914,Monthly_Rent_INR
+Gachibowli,Sale,Yes,No,2,2,1016,12112324,Sale_Price_INR
+Hitech City,Sale,No,Yes,2,2,886,10724429,Sale_Price_INR
+Madhapur,Sale,No,No,3,3,1484,13910411,Sale_Price_INR
+Kukatpally,Rent,Yes,Yes,2,1,1313,34730,Monthly_Rent_INR
+Alwal,Sale,No,No,2,1,993,6676255,Sale_Price_INR
+ECIL,Rent,Yes,No,3,3,1269,14528,Monthly_Rent_INR
+Kompally,Sale,Yes,No,4,3,1923,13585213,Sale_Price_INR
+Kukatpally,Sale,Yes,No,1,1,639,3735994,Sale_Price_INR
+Ameerpet,Rent,Yes,No,3,3,1395,31888,Monthly_Rent_INR
+ECIL,Rent,Yes,No,2,1,1126,12514,Monthly_Rent_INR
+Madhapur,Sale,Yes,No,2,1,1122,10844023,Sale_Price_INR
+ECIL,Sale,Yes,No,4,4,2219,12552292,Sale_Price_INR
+Kukatpally,Sale,Yes,No,4,4,2359,13124180,Sale_Price_INR
+ECIL,Rent,Yes,No,3,2,1172,10892,Monthly_Rent_INR
+Alwal,Rent,Yes,Yes,2,2,956,13177,Monthly_Rent_INR
+Hitech City,Sale,Yes,Yes,4,3,1994,26276472,Sale_Price_INR
+Kukatpally,Sale,Yes,Yes,2,2,992,6061265,Sale_Price_INR
+ECIL,Rent,Yes,No,3,3,1605,16425,Monthly_Rent_INR
+Kompally,Rent,Yes,Yes,3,3,1526,28179,Monthly_Rent_INR
+Bowenpally,Rent,Yes,No,2,1,1241,19332,Monthly_Rent_INR
+Kompally,Sale,Yes,No,2,2,1077,8208004,Sale_Price_INR
+Ameerpet,Rent,No,Yes,2,2,1192,31386,Monthly_Rent_INR
+Ameerpet,Sale,Yes,No,1,1,566,3766589,Sale_Price_INR
+Madhapur,Sale,Yes,No,3,2,1694,17826792,Sale_Price_INR
+Madhapur,Rent,Yes,No,2,2,889,30225,Monthly_Rent_INR
+Kukatpally,Sale,Yes,Yes,2,2,1057,6979122,Sale_Price_INR
+Ameerpet,Sale,No,Yes,1,1,591,4037658,Sale_Price_INR
+Kompally,Rent,Yes,No,3,3,1256,22372,Monthly_Rent_INR
+Sainikpuri,Sale,No,No,2,2,1127,6767398,Sale_Price_INR
+Hitech City,Sale,Yes,No,3,2,1519,17598563,Sale_Price_INR
+Sainikpuri,Rent,Yes,Yes,3,3,1200,10475,Monthly_Rent_INR
+Madhapur,Rent,Yes,No,2,1,892,33561,Monthly_Rent_INR
+Gachibowli,Rent,Yes,No,2,2,759,30293,Monthly_Rent_INR
+Bowenpally,Rent,No,No,3,2,1653,24114,Monthly_Rent_INR
+Hitech City,Sale,Yes,Yes,2,1,1188,13911615,Sale_Price_INR
+Gachibowli,Sale,Yes,No,2,2,1266,14690646,Sale_Price_INR
+Madhapur,Rent,Yes,No,1,1,563,17154,Monthly_Rent_INR
+Kukatpally,Sale,No,Yes,2,2,1001,5858114,Sale_Price_INR
+Ameerpet,Sale,No,Yes,2,2,711,5438915,Sale_Price_INR
+Kukatpally,Rent,Yes,Yes,3,2,1407,35236,Monthly_Rent_INR
+Madhapur,Sale,No,No,4,3,1916,21618473,Sale_Price_INR
+Ameerpet,Sale,No,No,2,2,946,6556674,Sale_Price_INR
+Kompally,Sale,No,No,2,2,1150,8251226,Sale_Price_INR
+Madhapur,Rent,No,No,2,2,1134,36099,Monthly_Rent_INR
+Ameerpet,Rent,No,No,2,2,889,21019,Monthly_Rent_INR
+Madhapur,Sale,Yes,Yes,2,1,981,11693950,Sale_Price_INR
+Hitech City,Rent,Yes,No,2,1,934,39887,Monthly_Rent_INR
+ECIL,Sale,No,No,3,2,1769,9409208,Sale_Price_INR
+Madhapur,Sale,Yes,Yes,2,2,1286,14365665,Sale_Price_INR
+Kukatpally,Sale,No,No,2,1,1185,6508862,Sale_Price_INR
+Bowenpally,Rent,Yes,Yes,2,2,981,15401,Monthly_Rent_INR
+Madhapur,Sale,No,No,3,2,1451,15722620,Sale_Price_INR
+ECIL,Sale,Yes,Yes,2,2,922,4926232,Sale_Price_INR
+Madhapur,Sale,Yes,Yes,3,3,1603,17720649,Sale_Price_INR
+Madhapur,Rent,Yes,No,2,2,1094,38999,Monthly_Rent_INR
+Hitech City,Sale,No,No,2,2,788,8133211,Sale_Price_INR
+ECIL,Sale,No,No,4,4,1924,11067029,Sale_Price_INR
+Ameerpet,Rent,No,No,1,1,551,12962,Monthly_Rent_INR
+Hitech City,Rent,No,No,2,2,1297,56347,Monthly_Rent_INR
+Sainikpuri,Sale,No,Yes,3,2,1446,10254867,Sale_Price_INR
+Bowenpally,Rent,Yes,Yes,2,1,901,15381,Monthly_Rent_INR
+Gachibowli,Sale,Yes,Yes,3,3,1318,16081426,Sale_Price_INR
+Madhapur,Rent,Yes,No,2,2,1361,44296,Monthly_Rent_INR
+ECIL,Rent,Yes,No,2,2,1037,12150,Monthly_Rent_INR
+Gachibowli,Rent,Yes,No,4,3,1758,70011,Monthly_Rent_INR
+Gachibowli,Sale,Yes,No,2,2,887,9913088,Sale_Price_INR
+Sainikpuri,Rent,Yes,Yes,3,3,1686,15775,Monthly_Rent_INR
+Kompally,Rent,Yes,Yes,3,3,1575,29094,Monthly_Rent_INR
+Madhapur,Rent,No,Yes,2,1,1034,38877,Monthly_Rent_INR
+Sainikpuri,Sale,Yes,No,3,2,1408,7885106,Sale_Price_INR
+ECIL,Rent,Yes,Yes,2,2,897,11684,Monthly_Rent_INR
+Madhapur,Sale,Yes,No,2,2,1215,13854936,Sale_Price_INR
+Hitech City,Sale,Yes,Yes,2,2,1110,14157603,Sale_Price_INR
+Alwal,Rent,No,Yes,2,2,802,9921,Monthly_Rent_INR
+Madhapur,Sale,Yes,No,2,2,955,10669188,Sale_Price_INR
+Kompally,Rent,Yes,Yes,2,2,1035,19052,Monthly_Rent_INR
+Hitech City,Sale,Yes,No,3,3,1411,15415742,Sale_Price_INR
+Ameerpet,Rent,Yes,No,3,2,1645,33424,Monthly_Rent_INR
+Ameerpet,Sale,Yes,No,2,1,884,6121663,Sale_Price_INR
+ECIL,Sale,No,Yes,2,2,1127,6404015,Sale_Price_INR
+Sainikpuri,Rent,No,Yes,2,2,1093,11529,Monthly_Rent_INR
+Hitech City,Rent,No,No,2,2,1011,37879,Monthly_Rent_INR
+Ameerpet,Sale,Yes,No,3,3,1247,8837255,Sale_Price_INR
+Kompally,Rent,Yes,No,2,1,1026,19491,Monthly_Rent_INR
+Kompally,Sale,Yes,No,2,2,985,7300621,Sale_Price_INR
+Alwal,Rent,No,Yes,2,2,826,9701,Monthly_Rent_INR
+Alwal,Rent,Yes,No,1,1,504,5618,Monthly_Rent_INR
+Sainikpuri,Rent,Yes,Yes,1,1,602,5847,Monthly_Rent_INR
+Kukatpally,Sale,Yes,Yes,2,2,837,5509340,Sale_Price_INR
+Hitech City,Rent,Yes,No,2,2,1251,41725,Monthly_Rent_INR
+Kompally,Sale,Yes,No,2,2,943,7312753,Sale_Price_INR
+Kompally,Sale,Yes,No,1,1,602,4297180,Sale_Price_INR
+Sainikpuri,Sale,No,Yes,3,3,1563,9485724,Sale_Price_INR
+ECIL,Sale,Yes,No,3,2,1319,6741207,Sale_Price_INR
+Gachibowli,Rent,Yes,No,2,1,912,33469,Monthly_Rent_INR
+Bowenpally,Rent,Yes,Yes,2,1,1203,20283,Monthly_Rent_INR
+ECIL,Sale,Yes,No,2,2,1048,5662595,Sale_Price_INR
+Alwal,Rent,Yes,No,2,1,1059,11501,Monthly_Rent_INR
+Bowenpally,Rent,No,No,3,2,1720,27162,Monthly_Rent_INR
+Kompally,Rent,No,Yes,1,1,538,9883,Monthly_Rent_INR
+Ameerpet,Sale,Yes,No,3,2,1235,9426826,Sale_Price_INR
+Hitech City,Rent,Yes,No,2,2,996,38818,Monthly_Rent_INR
+ECIL,Sale,No,No,2,1,1212,6693359,Sale_Price_INR
+Ameerpet,Sale,No,Yes,2,1,1000,7100956,Sale_Price_INR
+Kompally,Rent,No,No,2,1,1074,18056,Monthly_Rent_INR
+Ameerpet,Rent,Yes,Yes,1,1,558,14166,Monthly_Rent_INR
+Kukatpally,Sale,No,No,3,2,1333,7289189,Sale_Price_INR
+Hitech City,Sale,Yes,No,2,2,1142,12382208,Sale_Price_INR
+Hitech City,Rent,Yes,No,3,2,1590,66236,Monthly_Rent_INR
+Alwal,Sale,No,Yes,2,1,950,6830122,Sale_Price_INR
+Gachibowli,Sale,Yes,Yes,2,1,1092,12767521,Sale_Price_INR
+Gachibowli,Sale,No,No,1,1,712,8421062,Sale_Price_INR
+Kukatpally,Rent,Yes,No,2,2,930,21787,Monthly_Rent_INR
+Kukatpally,Sale,Yes,No,1,1,642,3944191,Sale_Price_INR
+Ameerpet,Sale,Yes,No,2,2,1239,8244621,Sale_Price_INR
+Gachibowli,Sale,Yes,No,4,4,1985,23572633,Sale_Price_INR
+Hitech City,Rent,Yes,No,2,2,1158,45506,Monthly_Rent_INR
+Madhapur,Sale,No,No,2,2,1019,9449788,Sale_Price_INR
+Kukatpally,Sale,Yes,Yes,2,2,1007,5845796,Sale_Price_INR
+Bowenpally,Sale,Yes,Yes,2,2,1162,9380164,Sale_Price_INR
+Alwal,Sale,Yes,No,3,2,1125,7406981,Sale_Price_INR
+Gachibowli,Sale,No,No,2,1,918,9870752,Sale_Price_INR
+Kompally,Rent,Yes,Yes,2,2,997,15317,Monthly_Rent_INR
+Sainikpuri,Rent,No,No,2,2,1053,10582,Monthly_Rent_INR
+Alwal,Rent,Yes,No,3,3,1587,18011,Monthly_Rent_INR
+Kompally,Rent,No,Yes,2,1,1341,27410,Monthly_Rent_INR
+Kompally,Rent,Yes,Yes,3,3,1494,28852,Monthly_Rent_INR
+Alwal,Sale,No,No,1,1,635,4186961,Sale_Price_INR
+Madhapur,Sale,No,Yes,1,1,637,6541758,Sale_Price_INR
+Alwal,Sale,No,No,1,1,559,3634549,Sale_Price_INR
+Alwal,Sale,Yes,No,2,2,1011,7729501,Sale_Price_INR
+Kompally,Sale,Yes,No,2,1,1086,7877029,Sale_Price_INR
+Bowenpally,Sale,No,No,2,2,817,5415308,Sale_Price_INR
+Kukatpally,Sale,No,No,2,1,737,4184676,Sale_Price_INR
+Madhapur,Sale,No,Yes,3,3,1316,14892005,Sale_Price_INR
+Gachibowli,Sale,Yes,Yes,2,2,1165,13783974,Sale_Price_INR
+Alwal,Rent,No,Yes,3,2,1460,16706,Monthly_Rent_INR
+Bowenpally,Sale,No,No,2,2,1164,10399636,Sale_Price_INR
+Alwal,Sale,Yes,Yes,2,2,933,6801692,Sale_Price_INR
+Kukatpally,Rent,Yes,No,3,2,1364,33310,Monthly_Rent_INR
+Ameerpet,Sale,Yes,No,1,1,559,3964550,Sale_Price_INR
+Hitech City,Sale,No,No,1,1,635,7671008,Sale_Price_INR
+Madhapur,Sale,Yes,Yes,2,2,963,11612907,Sale_Price_INR
+Kompally,Rent,Yes,No,2,2,1112,19480,Monthly_Rent_INR
+Sainikpuri,Rent,No,No,3,3,1317,13210,Monthly_Rent_INR
+Kukatpally,Sale,Yes,No,2,1,1161,6474654,Sale_Price_INR
+Madhapur,Sale,Yes,Yes,3,3,1593,17502365,Sale_Price_INR
+Madhapur,Sale,Yes,No,4,4,1846,18418104,Sale_Price_INR
+Ameerpet,Rent,Yes,No,2,2,963,23950,Monthly_Rent_INR
+Kompally,Sale,Yes,No,2,2,986,7280177,Sale_Price_INR
+Ameerpet,Sale,No,No,2,1,1253,9428895,Sale_Price_INR
+Ameerpet,Rent,Yes,No,2,2,1177,30289,Monthly_Rent_INR
+Hitech City,Rent,Yes,No,2,2,940,38768,Monthly_Rent_INR
+Sainikpuri,Sale,Yes,No,2,2,1030,6045940,Sale_Price_INR
+Hitech City,Sale,Yes,No,4,4,1776,18574135,Sale_Price_INR
+Kukatpally,Sale,Yes,No,2,2,1080,6433382,Sale_Price_INR
+Sainikpuri,Rent,Yes,No,2,2,1349,13281,Monthly_Rent_INR
+Sainikpuri,Sale,No,No,2,2,1024,5909368,Sale_Price_INR
+Sainikpuri,Sale,Yes,No,2,2,1272,8357406,Sale_Price_INR
+Alwal,Sale,Yes,Yes,2,2,1167,7414663,Sale_Price_INR
+Kompally,Sale,No,Yes,2,2,750,5175279,Sale_Price_INR
+Alwal,Rent,Yes,No,1,1,673,7366,Monthly_Rent_INR
+Hitech City,Sale,Yes,No,2,2,1289,16836744,Sale_Price_INR
+Hitech City,Rent,Yes,Yes,2,1,976,42369,Monthly_Rent_INR
+Kukatpally,Rent,Yes,No,1,1,565,12675,Monthly_Rent_INR
+Kompally,Rent,Yes,No,2,2,991,19386,Monthly_Rent_INR
+Hitech City,Sale,No,Yes,3,2,1290,13731063,Sale_Price_INR
+Hitech City,Sale,Yes,No,2,2,1072,12792181,Sale_Price_INR
+Kukatpally,Sale,Yes,Yes,1,1,591,3758616,Sale_Price_INR
+Madhapur,Sale,Yes,Yes,3,2,1676,17582189,Sale_Price_INR
+Ameerpet,Rent,Yes,No,2,2,1212,31360,Monthly_Rent_INR
+Bowenpally,Sale,No,No,2,2,1137,9065998,Sale_Price_INR
+Kompally,Rent,Yes,No,2,2,958,16924,Monthly_Rent_INR
+ECIL,Rent,Yes,No,2,2,1283,12762,Monthly_Rent_INR
+Madhapur,Sale,Yes,No,2,1,1289,12399179,Sale_Price_INR
+Ameerpet,Rent,Yes,No,1,1,541,11274,Monthly_Rent_INR
+Madhapur,Rent,Yes,No,2,1,1303,44001,Monthly_Rent_INR
+Ameerpet,Rent,No,No,2,2,1171,27342,Monthly_Rent_INR
+Ameerpet,Sale,No,No,2,1,1096,8989844,Sale_Price_INR
+Bowenpally,Rent,Yes,No,3,3,1506,27678,Monthly_Rent_INR
+Bowenpally,Sale,Yes,No,2,2,1149,9509301,Sale_Price_INR
+Alwal,Rent,Yes,No,2,2,1250,13604,Monthly_Rent_INR
+Madhapur,Rent,No,No,4,4,2262,77559,Monthly_Rent_INR
+Kukatpally,Sale,Yes,No,3,2,1452,8089493,Sale_Price_INR
+Sainikpuri,Rent,Yes,No,2,2,1253,11420,Monthly_Rent_INR
+ECIL,Rent,No,Yes,3,2,1554,18180,Monthly_Rent_INR
+Sainikpuri,Rent,No,No,2,2,1022,9622,Monthly_Rent_INR
+Alwal,Sale,Yes,No,2,2,1046,7380624,Sale_Price_INR
+Kukatpally,Sale,Yes,No,2,1,1117,6631041,Sale_Price_INR
+Sainikpuri,Sale,No,No,4,3,1856,11740657,Sale_Price_INR
+ECIL,Sale,Yes,No,2,2,1062,5730139,Sale_Price_INR
+Gachibowli,Rent,Yes,No,3,2,1593,57372,Monthly_Rent_INR
+Kompally,Rent,Yes,Yes,3,3,1647,34024,Monthly_Rent_INR
+Kukatpally,Rent,Yes,No,3,3,1694,43478,Monthly_Rent_INR
+Hitech City,Rent,No,Yes,2,1,1202,48298,Monthly_Rent_INR
+Kukatpally,Rent,Yes,No,3,2,1519,30759,Monthly_Rent_INR
+ECIL,Rent,No,Yes,3,3,1282,16938,Monthly_Rent_INR
+Gachibowli,Sale,Yes,No,2,2,1010,10486449,Sale_Price_INR
+Madhapur,Rent,Yes,Yes,2,1,1258,47282,Monthly_Rent_INR
+Sainikpuri,Sale,No,No,2,1,1011,6191572,Sale_Price_INR
+Hitech City,Sale,No,Yes,2,2,939,12169675,Sale_Price_INR
+Kukatpally,Sale,No,No,2,1,1074,6460643,Sale_Price_INR
+Alwal,Rent,No,No,3,2,1340,15644,Monthly_Rent_INR
+Bowenpally,Rent,No,No,2,2,981,16246,Monthly_Rent_INR
+Kukatpally,Rent,No,Yes,2,1,1099,30367,Monthly_Rent_INR
+Ameerpet,Sale,Yes,Yes,2,1,984,7886655,Sale_Price_INR
+Kompally,Sale,Yes,Yes,3,2,1249,9017940,Sale_Price_INR
+Bowenpally,Rent,No,No,3,3,1787,28078,Monthly_Rent_INR
+Gachibowli,Sale,Yes,No,1,1,698,8464279,Sale_Price_INR
+Alwal,Rent,No,Yes,2,1,865,9486,Monthly_Rent_INR
+Hitech City,Rent,Yes,No,3,3,1229,49256,Monthly_Rent_INR
+Kompally,Sale,Yes,No,3,3,1643,12709342,Sale_Price_INR
+Hitech City,Rent,No,No,2,2,1041,38761,Monthly_Rent_INR
+Alwal,Sale,No,Yes,2,2,1191,8921452,Sale_Price_INR
+Gachibowli,Sale,Yes,Yes,2,2,952,11143189,Sale_Price_INR
+Bowenpally,Sale,No,No,3,3,1006,9109391,Sale_Price_INR
+Ameerpet,Sale,Yes,No,2,1,1147,8586212,Sale_Price_INR
+Madhapur,Rent,Yes,No,2,2,1084,38213,Monthly_Rent_INR
+Hitech City,Rent,Yes,No,4,4,1553,67977,Monthly_Rent_INR
+ECIL,Sale,No,Yes,3,3,1390,8384079,Sale_Price_INR
+Ameerpet,Sale,No,No,3,2,1480,11327670,Sale_Price_INR
+Madhapur,Sale,Yes,No,3,3,1566,16096833,Sale_Price_INR
+Gachibowli,Rent,No,Yes,2,2,1141,48974,Monthly_Rent_INR
+Gachibowli,Rent,Yes,No,3,3,1380,55512,Monthly_Rent_INR
+Ameerpet,Sale,No,Yes,3,3,1117,7983633,Sale_Price_INR
+Madhapur,Sale,Yes,Yes,2,2,1199,11623277,Sale_Price_INR
+Sainikpuri,Sale,No,No,2,1,866,5520802,Sale_Price_INR
+Kompally,Sale,Yes,No,2,1,1126,7544376,Sale_Price_INR
+Bowenpally,Sale,Yes,No,2,2,1073,8105225,Sale_Price_INR
+Kompally,Rent,Yes,No,2,2,1044,17208,Monthly_Rent_INR
+Madhapur,Rent,No,No,2,2,975,31412,Monthly_Rent_INR
+Madhapur,Sale,Yes,No,2,2,1358,13548584,Sale_Price_INR
+Ameerpet,Rent,Yes,No,2,1,1074,27713,Monthly_Rent_INR
+Alwal,Rent,Yes,Yes,3,3,1454,17521,Monthly_Rent_INR
+Hitech City,Sale,Yes,Yes,2,2,1123,14788643,Sale_Price_INR
+Bowenpally,Rent,Yes,No,3,3,1232,17876,Monthly_Rent_INR
+Sainikpuri,Rent,No,No,1,1,652,6111,Monthly_Rent_INR
+Kukatpally,Rent,No,No,2,2,1168,23810,Monthly_Rent_INR
+Gachibowli,Sale,No,Yes,2,2,822,9603784,Sale_Price_INR
+Hitech City,Sale,No,No,3,3,1545,19063509,Sale_Price_INR
+Kukatpally,Rent,Yes,Yes,3,3,1572,40776,Monthly_Rent_INR
+Madhapur,Sale,No,Yes,2,2,1123,11468105,Sale_Price_INR
+Sainikpuri,Sale,Yes,No,3,3,1332,7406231,Sale_Price_INR
+Bowenpally,Sale,Yes,Yes,3,3,1116,9011333,Sale_Price_INR
+ECIL,Sale,No,No,1,1,614,2852833,Sale_Price_INR
+Gachibowli,Rent,Yes,No,3,2,1251,48072,Monthly_Rent_INR
+Ameerpet,Rent,No,No,2,1,1114,27301,Monthly_Rent_INR
+Alwal,Rent,No,Yes,2,2,895,11426,Monthly_Rent_INR
+Kukatpally,Sale,No,Yes,3,2,1542,10152664,Sale_Price_INR
+Kukatpally,Sale,Yes,Yes,3,3,1192,7695234,Sale_Price_INR
+Sainikpuri,Sale,Yes,No,2,2,1140,6277958,Sale_Price_INR
+Madhapur,Rent,Yes,Yes,3,3,1575,65832,Monthly_Rent_INR
+Madhapur,Rent,No,Yes,2,2,1075,38400,Monthly_Rent_INR
+ECIL,Sale,No,Yes,2,2,1028,5254235,Sale_Price_INR
+Hitech City,Rent,No,No,2,2,1164,49495,Monthly_Rent_INR
+Kukatpally,Sale,Yes,No,2,2,1090,5870130,Sale_Price_INR
+Sainikpuri,Rent,Yes,Yes,2,2,929,9053,Monthly_Rent_INR
+Madhapur,Sale,Yes,No,2,2,1018,11113699,Sale_Price_INR
+Ameerpet,Rent,No,No,2,2,1073,24315,Monthly_Rent_INR
+Kukatpally,Rent,Yes,Yes,3,2,1505,35889,Monthly_Rent_INR
+Alwal,Rent,No,No,1,1,680,8506,Monthly_Rent_INR
+Kukatpally,Sale,Yes,No,2,2,912,5300390,Sale_Price_INR
+Hitech City,Rent,Yes,No,2,2,1187,49377,Monthly_Rent_INR
+Bowenpally,Rent,No,Yes,2,2,1134,16935,Monthly_Rent_INR
+ECIL,Rent,Yes,No,2,2,1065,12623,Monthly_Rent_INR
+Bowenpally,Rent,Yes,No,1,1,631,8378,Monthly_Rent_INR
+Ameerpet,Sale,No,Yes,2,2,1073,8615070,Sale_Price_INR
+Kompally,Sale,Yes,No,3,3,1239,8896693,Sale_Price_INR
+Alwal,Sale,Yes,No,2,1,1036,6693236,Sale_Price_INR
+Hitech City,Sale,Yes,No,1,1,571,7048022,Sale_Price_INR
+Madhapur,Sale,Yes,No,3,3,1431,13264374,Sale_Price_INR
+Gachibowli,Rent,Yes,Yes,3,2,1279,56717,Monthly_Rent_INR
+Bowenpally,Sale,Yes,Yes,2,1,1084,9369501,Sale_Price_INR
+Alwal,Rent,Yes,No,2,1,1222,15977,Monthly_Rent_INR
+ECIL,Sale,Yes,No,2,2,1264,6839813,Sale_Price_INR
+Bowenpally,Rent,Yes,Yes,3,3,1206,18904,Monthly_Rent_INR
+Madhapur,Sale,No,Yes,2,1,1055,11117623,Sale_Price_INR
+Gachibowli,Sale,No,No,3,2,1318,13969537,Sale_Price_INR
+Alwal,Sale,Yes,Yes,1,1,612,4563267,Sale_Price_INR
+Kompally,Rent,No,Yes,2,1,1234,21645,Monthly_Rent_INR
+ECIL,Sale,Yes,Yes,2,2,981,5373375,Sale_Price_INR
+Hitech City,Sale,Yes,No,2,2,1048,11996530,Sale_Price_INR
+Madhapur,Sale,Yes,No,2,1,1164,13064134,Sale_Price_INR
+Kukatpally,Rent,Yes,No,3,3,1470,36949,Monthly_Rent_INR
+Gachibowli,Rent,Yes,Yes,3,2,1520,65223,Monthly_Rent_INR
+Alwal,Sale,Yes,Yes,3,2,1282,9045418,Sale_Price_INR
+Sainikpuri,Sale,No,Yes,1,1,585,3710961,Sale_Price_INR
+Madhapur,Sale,Yes,No,2,1,894,8644881,Sale_Price_INR
+Madhapur,Sale,No,Yes,2,2,886,8461291,Sale_Price_INR
+Alwal,Sale,Yes,No,2,1,922,6225039,Sale_Price_INR
+Alwal,Rent,No,No,2,1,993,12665,Monthly_Rent_INR
+Madhapur,Sale,Yes,No,2,2,863,10022196,Sale_Price_INR
+Kukatpally,Rent,Yes,No,4,3,2047,50564,Monthly_Rent_INR
+ECIL,Rent,Yes,Yes,1,1,495,6005,Monthly_Rent_INR
+ECIL,Sale,Yes,No,1,1,604,3249822,Sale_Price_INR
+ECIL,Rent,Yes,Yes,1,1,637,8325,Monthly_Rent_INR
+Alwal,Sale,No,No,3,2,1398,10134180,Sale_Price_INR
+Sainikpuri,Sale,Yes,Yes,2,1,988,5170218,Sale_Price_INR
+Kompally,Rent,Yes,Yes,2,2,1129,21639,Monthly_Rent_INR
+Sainikpuri,Rent,No,No,2,2,1021,9825,Monthly_Rent_INR
+Hitech City,Rent,Yes,No,1,1,573,22718,Monthly_Rent_INR
+Sainikpuri,Sale,Yes,No,2,2,1005,6029006,Sale_Price_INR
+Madhapur,Sale,No,Yes,2,2,909,9500835,Sale_Price_INR
+Bowenpally,Sale,Yes,No,2,1,1056,8926164,Sale_Price_INR
+Madhapur,Rent,Yes,No,2,2,1045,31771,Monthly_Rent_INR
+Hitech City,Sale,Yes,Yes,2,2,918,11746686,Sale_Price_INR
+Kompally,Sale,Yes,Yes,2,2,1081,8657145,Sale_Price_INR
+Hitech City,Rent,Yes,No,3,3,1299,47430,Monthly_Rent_INR
+Sainikpuri,Sale,No,No,2,1,882,4983497,Sale_Price_INR
+Sainikpuri,Sale,Yes,No,3,3,1530,10348148,Sale_Price_INR
+Kompally,Rent,Yes,No,2,1,1143,22397,Monthly_Rent_INR
+Sainikpuri,Sale,No,No,1,1,481,2784478,Sale_Price_INR
+Ameerpet,Rent,No,No,3,3,1437,36459,Monthly_Rent_INR
+Gachibowli,Sale,Yes,No,3,3,1532,17256708,Sale_Price_INR
+ECIL,Sale,Yes,No,2,2,1224,6021829,Sale_Price_INR
+Bowenpally,Rent,No,No,2,2,1145,16742,Monthly_Rent_INR
+Gachibowli,Rent,Yes,Yes,2,2,968,35232,Monthly_Rent_INR
+Hitech City,Rent,Yes,Yes,3,3,1443,57531,Monthly_Rent_INR
+Sainikpuri,Rent,Yes,Yes,2,2,1029,12302,Monthly_Rent_INR
+Ameerpet,Sale,Yes,No,2,2,1126,7955518,Sale_Price_INR
+Sainikpuri,Sale,No,No,2,2,1132,6876561,Sale_Price_INR
+Kukatpally,Sale,No,Yes,1,1,495,2934849,Sale_Price_INR
+Gachibowli,Sale,Yes,No,2,2,1135,12963057,Sale_Price_INR
+Hitech City,Sale,Yes,Yes,2,1,1045,12096624,Sale_Price_INR
+Sainikpuri,Rent,No,No,3,2,1313,12496,Monthly_Rent_INR
+Kukatpally,Rent,No,Yes,2,1,1052,26754,Monthly_Rent_INR
+Ameerpet,Rent,Yes,No,3,2,1458,38876,Monthly_Rent_INR
+Sainikpuri,Rent,Yes,No,4,4,1817,18741,Monthly_Rent_INR
+Bowenpally,Sale,Yes,Yes,2,2,964,7863248,Sale_Price_INR
+ECIL,Rent,Yes,No,2,1,960,10820,Monthly_Rent_INR
+Bowenpally,Sale,No,Yes,4,3,1956,16898203,Sale_Price_INR
+Madhapur,Rent,Yes,Yes,2,1,795,30104,Monthly_Rent_INR
+Bowenpally,Sale,Yes,Yes,3,2,1264,10932621,Sale_Price_INR
+Bowenpally,Sale,Yes,No,2,1,1112,8722073,Sale_Price_INR
+Kompally,Rent,No,No,3,2,1337,20847,Monthly_Rent_INR
+Sainikpuri,Rent,Yes,No,3,3,1353,11265,Monthly_Rent_INR
+Bowenpally,Rent,Yes,No,3,3,1284,19117,Monthly_Rent_INR
+Kompally,Sale,Yes,Yes,2,1,1095,8240683,Sale_Price_INR
+Sainikpuri,Sale,Yes,Yes,3,2,1617,9770223,Sale_Price_INR
+Madhapur,Rent,Yes,Yes,2,2,1140,45476,Monthly_Rent_INR
+Sainikpuri,Sale,No,Yes,3,3,1404,7279512,Sale_Price_INR
+Madhapur,Rent,Yes,Yes,2,2,1332,52981,Monthly_Rent_INR
+Bowenpally,Rent,Yes,No,2,2,1002,15817,Monthly_Rent_INR
+Sainikpuri,Rent,Yes,No,3,3,1391,14111,Monthly_Rent_INR
+ECIL,Rent,Yes,Yes,2,1,1044,11567,Monthly_Rent_INR
+Madhapur,Sale,Yes,No,3,3,1248,11933614,Sale_Price_INR
+Gachibowli,Sale,Yes,No,2,1,917,8820662,Sale_Price_INR
+Alwal,Rent,Yes,Yes,1,1,580,7569,Monthly_Rent_INR
+Madhapur,Sale,Yes,No,2,2,990,10997531,Sale_Price_INR
+Ameerpet,Rent,Yes,No,1,1,513,14020,Monthly_Rent_INR
+Ameerpet,Rent,Yes,No,2,2,1283,30058,Monthly_Rent_INR
+ECIL,Rent,Yes,Yes,2,2,974,13079,Monthly_Rent_INR
+Kompally,Rent,No,Yes,2,2,1070,20619,Monthly_Rent_INR
+ECIL,Rent,Yes,No,2,2,1044,11956,Monthly_Rent_INR
+Alwal,Sale,Yes,No,1,1,557,3892847,Sale_Price_INR
+Madhapur,Sale,Yes,Yes,3,3,1583,15218996,Sale_Price_INR
+Hitech City,Rent,Yes,Yes,2,2,1131,46638,Monthly_Rent_INR
+Madhapur,Sale,Yes,Yes,2,1,1220,13282068,Sale_Price_INR
+Ameerpet,Rent,Yes,No,3,2,1358,33890,Monthly_Rent_INR
+Sainikpuri,Rent,No,No,3,2,1390,14539,Monthly_Rent_INR
+Gachibowli,Rent,Yes,No,2,2,1096,37226,Monthly_Rent_INR
+Alwal,Rent,No,No,2,1,942,9040,Monthly_Rent_INR
+Bowenpally,Sale,No,No,2,2,803,7186594,Sale_Price_INR
+ECIL,Sale,No,Yes,2,1,1015,4972077,Sale_Price_INR
+Hitech City,Rent,Yes,No,2,2,1119,47025,Monthly_Rent_INR
+Bowenpally,Sale,No,Yes,2,2,1270,11302357,Sale_Price_INR
+Hitech City,Sale,No,Yes,2,2,983,11390226,Sale_Price_INR
+Ameerpet,Rent,No,No,2,1,1068,24852,Monthly_Rent_INR
+Alwal,Rent,No,No,3,2,1422,15876,Monthly_Rent_INR
+Gachibowli,Rent,Yes,No,3,2,1568,54711,Monthly_Rent_INR
+Kukatpally,Sale,Yes,Yes,1,1,486,2878370,Sale_Price_INR
+ECIL,Sale,No,Yes,1,1,553,3062335,Sale_Price_INR
+Kompally,Rent,Yes,No,3,3,1270,22478,Monthly_Rent_INR
+Alwal,Sale,Yes,Yes,2,2,950,6763093,Sale_Price_INR
+ECIL,Sale,Yes,No,4,3,1820,10556762,Sale_Price_INR
+Bowenpally,Sale,No,Yes,1,1,517,4043907,Sale_Price_INR
+Gachibowli,Sale,Yes,No,3,3,1631,21066540,Sale_Price_INR
+Alwal,Sale,No,No,3,3,1388,10756050,Sale_Price_INR
+Gachibowli,Sale,No,No,3,3,1477,16445254,Sale_Price_INR
+Ameerpet,Sale,No,Yes,2,2,1100,7989867,Sale_Price_INR
+Madhapur,Sale,Yes,No,2,2,1111,13019870,Sale_Price_INR
+ECIL,Rent,Yes,No,2,1,1100,10074,Monthly_Rent_INR
+Alwal,Rent,No,No,2,1,1025,13407,Monthly_Rent_INR
+Bowenpally,Rent,No,No,3,3,1509,25377,Monthly_Rent_INR
+Kompally,Sale,Yes,No,2,2,1238,8457258,Sale_Price_INR
+Bowenpally,Sale,No,Yes,2,2,1049,8154626,Sale_Price_INR
+Ameerpet,Sale,No,No,2,2,1125,6750763,Sale_Price_INR
+Madhapur,Sale,Yes,No,2,2,1045,11486966,Sale_Price_INR
+Madhapur,Sale,No,No,2,2,826,8491025,Sale_Price_INR
+ECIL,Rent,Yes,No,2,1,1064,12457,Monthly_Rent_INR
+Sainikpuri,Sale,Yes,Yes,3,3,1429,9801888,Sale_Price_INR
+ECIL,Sale,Yes,No,3,3,1424,8799476,Sale_Price_INR
+Alwal,Rent,Yes,Yes,2,2,923,10717,Monthly_Rent_INR
+Kukatpally,Rent,Yes,Yes,3,3,1158,27587,Monthly_Rent_INR
+Ameerpet,Rent,No,Yes,3,3,1499,40695,Monthly_Rent_INR
+Kukatpally,Rent,Yes,Yes,2,1,897,22838,Monthly_Rent_INR
+Madhapur,Rent,Yes,No,2,2,1046,39281,Monthly_Rent_INR
+Madhapur,Sale,No,Yes,2,2,1010,11059777,Sale_Price_INR
+Bowenpally,Sale,Yes,No,2,2,1014,7739286,Sale_Price_INR
+Alwal,Rent,Yes,Yes,2,2,898,11854,Monthly_Rent_INR
+Madhapur,Rent,No,No,2,2,732,25824,Monthly_Rent_INR
+Sainikpuri,Rent,Yes,No,2,1,867,7652,Monthly_Rent_INR
+Madhapur,Rent,Yes,Yes,3,2,1429,54773,Monthly_Rent_INR
+Alwal,Sale,No,No,3,3,1265,7926763,Sale_Price_INR
+Gachibowli,Sale,Yes,No,1,1,585,7159138,Sale_Price_INR
+Gachibowli,Sale,Yes,Yes,2,2,1021,11813725,Sale_Price_INR
+Ameerpet,Sale,No,No,2,2,950,6893230,Sale_Price_INR
+Madhapur,Sale,No,No,2,1,849,10015691,Sale_Price_INR
+Madhapur,Rent,Yes,No,2,2,1076,40037,Monthly_Rent_INR
+Gachibowli,Sale,Yes,No,2,2,1154,11096634,Sale_Price_INR
+Ameerpet,Sale,No,No,2,2,1160,8394359,Sale_Price_INR
+Gachibowli,Rent,Yes,Yes,2,1,1192,50638,Monthly_Rent_INR
+Ameerpet,Rent,No,No,4,4,2202,49855,Monthly_Rent_INR
+Sainikpuri,Sale,No,Yes,2,2,833,5061152,Sale_Price_INR
+ECIL,Rent,No,No,4,3,2052,24410,Monthly_Rent_INR
+Sainikpuri,Rent,Yes,No,2,1,739,8445,Monthly_Rent_INR
+Bowenpally,Rent,Yes,Yes,2,1,1110,17520,Monthly_Rent_INR
+Bowenpally,Rent,No,No,2,2,1277,18061,Monthly_Rent_INR
+Madhapur,Sale,Yes,No,3,3,1264,14478216,Sale_Price_INR
+Alwal,Sale,No,No,3,3,1401,8255016,Sale_Price_INR
+Ameerpet,Rent,No,No,3,2,1053,25386,Monthly_Rent_INR
+ECIL,Rent,Yes,No,2,1,1030,13339,Monthly_Rent_INR
+ECIL,Sale,Yes,No,1,1,621,3129495,Sale_Price_INR
+ECIL,Rent,Yes,Yes,3,2,1467,18151,Monthly_Rent_INR
+Sainikpuri,Rent,Yes,No,1,1,477,4162,Monthly_Rent_INR
+Gachibowli,Rent,Yes,Yes,2,2,987,40300,Monthly_Rent_INR
+Alwal,Sale,Yes,Yes,3,3,1216,10136484,Sale_Price_INR
+Sainikpuri,Sale,No,No,3,2,1331,7738236,Sale_Price_INR
+ECIL,Sale,No,No,1,1,562,2815399,Sale_Price_INR
+Bowenpally,Sale,Yes,Yes,3,3,1500,11949064,Sale_Price_INR
+Sainikpuri,Rent,No,No,2,2,1083,11434,Monthly_Rent_INR
+Alwal,Rent,No,No,2,2,1117,11938,Monthly_Rent_INR
+Bowenpally,Sale,Yes,No,2,2,858,6690682,Sale_Price_INR
+ECIL,Rent,Yes,No,3,3,1428,15608,Monthly_Rent_INR
+Kukatpally,Sale,Yes,No,3,2,1924,9960808,Sale_Price_INR
+Sainikpuri,Sale,Yes,No,1,1,600,3441296,Sale_Price_INR
+Kompally,Sale,No,No,2,2,1089,7700029,Sale_Price_INR
+Gachibowli,Sale,Yes,No,2,2,1092,12410001,Sale_Price_INR
+Bowenpally,Sale,Yes,Yes,3,3,1581,14132640,Sale_Price_INR
+Ameerpet,Sale,Yes,Yes,2,2,1184,10100126,Sale_Price_INR
+Ameerpet,Rent,Yes,No,2,2,1347,39025,Monthly_Rent_INR
+Madhapur,Sale,Yes,No,2,2,1069,12188814,Sale_Price_INR
+Alwal,Rent,Yes,No,2,2,1207,14357,Monthly_Rent_INR
+Gachibowli,Sale,Yes,Yes,3,3,1508,17333178,Sale_Price_INR
+Bowenpally,Rent,No,Yes,2,2,858,11078,Monthly_Rent_INR
+Alwal,Sale,No,Yes,4,3,1910,14313394,Sale_Price_INR
+Alwal,Rent,Yes,No,2,1,1205,12928,Monthly_Rent_INR
+Kukatpally,Rent,Yes,No,3,3,1300,29142,Monthly_Rent_INR
+Sainikpuri,Sale,Yes,No,3,3,1623,10630443,Sale_Price_INR
+Bowenpally,Rent,Yes,Yes,2,2,1079,19301,Monthly_Rent_INR
+Gachibowli,Rent,No,Yes,2,1,967,37606,Monthly_Rent_INR
+ECIL,Sale,No,No,3,3,1392,7486212,Sale_Price_INR
+Alwal,Sale,Yes,No,2,1,1021,6408058,Sale_Price_INR
+Kukatpally,Rent,Yes,Yes,2,2,1179,31330,Monthly_Rent_INR
+Alwal,Sale,Yes,Yes,3,2,1273,9754134,Sale_Price_INR
+Ameerpet,Rent,Yes,Yes,3,2,1198,33389,Monthly_Rent_INR
+Bowenpally,Rent,Yes,No,4,4,1726,25374,Monthly_Rent_INR
+ECIL,Rent,No,No,2,1,940,10247,Monthly_Rent_INR
+Kukatpally,Rent,No,Yes,3,3,1337,31397,Monthly_Rent_INR
+Gachibowli,Rent,Yes,No,2,1,931,38831,Monthly_Rent_INR
+ECIL,Rent,Yes,Yes,2,1,1038,11067,Monthly_Rent_INR
+Alwal,Rent,No,Yes,4,4,1820,21896,Monthly_Rent_INR
+Alwal,Sale,Yes,No,2,2,1005,6917234,Sale_Price_INR
+Gachibowli,Sale,Yes,No,3,3,1253,14647789,Sale_Price_INR
+Kukatpally,Rent,Yes,Yes,1,1,599,16137,Monthly_Rent_INR
+Kukatpally,Rent,Yes,No,2,2,991,24205,Monthly_Rent_INR
+Gachibowli,Sale,No,No,3,3,1364,14582370,Sale_Price_INR
+Sainikpuri,Sale,Yes,Yes,3,3,1375,8769050,Sale_Price_INR
+Bowenpally,Rent,Yes,No,2,2,1106,16247,Monthly_Rent_INR
+Ameerpet,Rent,Yes,Yes,2,2,1125,31837,Monthly_Rent_INR
+Kukatpally,Sale,Yes,Yes,2,2,1053,6639860,Sale_Price_INR
+Kompally,Rent,Yes,Yes,2,2,1234,23740,Monthly_Rent_INR
+Alwal,Rent,No,Yes,3,3,1554,20519,Monthly_Rent_INR
+Sainikpuri,Rent,Yes,No,2,2,1001,9193,Monthly_Rent_INR
+Sainikpuri,Sale,No,Yes,3,3,1537,11339554,Sale_Price_INR
+Sainikpuri,Rent,No,No,3,2,1350,12332,Monthly_Rent_INR
+Alwal,Rent,Yes,No,2,2,1049,12123,Monthly_Rent_INR
+Bowenpally,Rent,Yes,No,2,2,987,16062,Monthly_Rent_INR
+Bowenpally,Sale,Yes,No,3,2,1097,8283918,Sale_Price_INR
+Alwal,Rent,Yes,No,2,2,1100,12989,Monthly_Rent_INR
+Bowenpally,Rent,Yes,No,4,4,2063,30325,Monthly_Rent_INR
+Kompally,Sale,No,Yes,2,2,935,6599884,Sale_Price_INR
+Sainikpuri,Rent,Yes,No,2,1,1101,9698,Monthly_Rent_INR
+Kompally,Sale,Yes,No,2,2,973,7421095,Sale_Price_INR
+ECIL,Sale,No,Yes,1,1,590,3052326,Sale_Price_INR
+Hitech City,Sale,Yes,Yes,2,1,945,11184000,Sale_Price_INR
+Gachibowli,Rent,Yes,No,2,2,1089,40052,Monthly_Rent_INR
+Alwal,Sale,Yes,Yes,2,2,1038,6871198,Sale_Price_INR
+Madhapur,Rent,Yes,Yes,3,3,1282,45100,Monthly_Rent_INR
+Kompally,Sale,No,No,3,2,1316,8441020,Sale_Price_INR
+Hitech City,Sale,Yes,No,3,3,1467,18920236,Sale_Price_INR
+Kompally,Rent,Yes,No,2,1,1096,19741,Monthly_Rent_INR
+Madhapur,Rent,Yes,No,2,2,1030,31568,Monthly_Rent_INR
+Alwal,Rent,Yes,No,2,1,1134,14546,Monthly_Rent_INR
+Bowenpally,Rent,No,Yes,2,1,1043,13834,Monthly_Rent_INR
+Bowenpally,Sale,No,Yes,2,1,1153,9830065,Sale_Price_INR
+Bowenpally,Rent,No,Yes,1,1,618,8480,Monthly_Rent_INR
+Sainikpuri,Sale,Yes,Yes,2,2,1155,6962806,Sale_Price_INR
+ECIL,Sale,No,No,1,1,595,3330250,Sale_Price_INR
+Hitech City,Sale,Yes,No,2,2,1113,14053171,Sale_Price_INR
+Kompally,Sale,Yes,Yes,2,2,1200,8877519,Sale_Price_INR
+Gachibowli,Sale,Yes,No,2,2,906,10232452,Sale_Price_INR
+ECIL,Rent,No,No,2,2,1141,12735,Monthly_Rent_INR
+Kompally,Rent,No,No,2,1,1035,14894,Monthly_Rent_INR
+Alwal,Rent,No,No,3,3,1290,16972,Monthly_Rent_INR
+Ameerpet,Sale,No,Yes,2,1,1111,8754939,Sale_Price_INR
+Kompally,Rent,Yes,Yes,1,1,614,8923,Monthly_Rent_INR
+Bowenpally,Sale,No,No,3,2,1554,12360277,Sale_Price_INR
+Gachibowli,Sale,No,Yes,3,2,1362,16156977,Sale_Price_INR
+Kukatpally,Sale,Yes,No,2,2,1139,5822426,Sale_Price_INR
+ECIL,Rent,Yes,No,1,1,641,6811,Monthly_Rent_INR
+Kukatpally,Rent,Yes,No,1,1,648,16888,Monthly_Rent_INR
+ECIL,Sale,Yes,Yes,3,3,1405,8469905,Sale_Price_INR
+Bowenpally,Rent,Yes,No,2,2,1055,17084,Monthly_Rent_INR
+Gachibowli,Rent,Yes,Yes,1,1,618,23765,Monthly_Rent_INR
+Hitech City,Rent,Yes,No,2,2,977,37441,Monthly_Rent_INR
+ECIL,Rent,No,Yes,3,3,1516,18627,Monthly_Rent_INR
+Alwal,Rent,No,No,3,2,1311,15360,Monthly_Rent_INR
+Sainikpuri,Sale,No,Yes,2,2,1065,6344093,Sale_Price_INR
+Alwal,Rent,Yes,No,3,3,1445,18076,Monthly_Rent_INR
+ECIL,Sale,Yes,No,2,2,1223,6581295,Sale_Price_INR
+Kompally,Rent,Yes,Yes,2,2,1101,21738,Monthly_Rent_INR
+ECIL,Rent,Yes,Yes,2,1,864,10819,Monthly_Rent_INR
+Alwal,Rent,Yes,No,2,2,1272,15241,Monthly_Rent_INR
+Hitech City,Rent,Yes,No,2,2,996,40515,Monthly_Rent_INR
+Bowenpally,Rent,Yes,Yes,4,3,2188,33273,Monthly_Rent_INR
+ECIL,Sale,No,No,2,1,922,4814943,Sale_Price_INR
+Kompally,Rent,No,No,4,3,2113,36487,Monthly_Rent_INR
+Ameerpet,Rent,No,No,2,2,1080,25049,Monthly_Rent_INR
+Kompally,Sale,Yes,No,1,1,553,4214678,Sale_Price_INR
+Hitech City,Rent,No,No,2,2,925,35813,Monthly_Rent_INR
+Hitech City,Rent,No,No,4,4,1994,75519,Monthly_Rent_INR
+ECIL,Sale,Yes,No,3,3,1526,8467365,Sale_Price_INR
+Bowenpally,Rent,Yes,Yes,1,1,694,11496,Monthly_Rent_INR
+Gachibowli,Rent,No,No,2,2,1036,39796,Monthly_Rent_INR
+Madhapur,Sale,Yes,No,2,2,795,8386755,Sale_Price_INR
+Hitech City,Sale,Yes,Yes,2,2,1138,12770975,Sale_Price_INR
+Bowenpally,Rent,No,No,3,3,1476,21240,Monthly_Rent_INR
+Gachibowli,Sale,Yes,No,2,2,1216,14310032,Sale_Price_INR
+Ameerpet,Sale,Yes,No,1,1,583,4452109,Sale_Price_INR
+ECIL,Rent,Yes,Yes,2,2,1009,13312,Monthly_Rent_INR
+Kukatpally,Sale,Yes,No,3,3,1203,7031998,Sale_Price_INR
+Gachibowli,Sale,Yes,No,2,2,1090,11876427,Sale_Price_INR
+Ameerpet,Sale,Yes,Yes,1,1,689,5663795,Sale_Price_INR
+Alwal,Sale,No,No,2,2,1088,8376182,Sale_Price_INR
+Kukatpally,Rent,Yes,No,3,3,1611,36697,Monthly_Rent_INR
+Kompally,Rent,No,Yes,2,1,909,18415,Monthly_Rent_INR
+Ameerpet,Sale,No,No,1,1,608,4427214,Sale_Price_INR
+Madhapur,Rent,Yes,Yes,3,2,1357,50699,Monthly_Rent_INR
+Hitech City,Sale,Yes,No,2,2,1076,12351575,Sale_Price_INR
+Ameerpet,Sale,Yes,No,2,1,1012,7785971,Sale_Price_INR
+Alwal,Sale,Yes,No,2,2,1075,7339582,Sale_Price_INR
+Madhapur,Sale,Yes,Yes,1,1,661,7743712,Sale_Price_INR
+Sainikpuri,Rent,Yes,No,1,1,564,5100,Monthly_Rent_INR
+Kompally,Rent,Yes,No,3,2,1164,21175,Monthly_Rent_INR
+Bowenpally,Sale,Yes,Yes,3,2,1494,12155708,Sale_Price_INR
+Sainikpuri,Sale,Yes,No,2,2,1170,6882030,Sale_Price_INR
+Hitech City,Sale,Yes,Yes,3,2,1383,17768317,Sale_Price_INR
+Bowenpally,Sale,No,No,3,2,1393,10220216,Sale_Price_INR
+Hitech City,Rent,Yes,No,3,3,1348,56069,Monthly_Rent_INR
+Madhapur,Sale,Yes,No,2,1,1099,12416477,Sale_Price_INR
+Hitech City,Rent,Yes,No,2,2,1037,39107,Monthly_Rent_INR
+Ameerpet,Rent,No,No,3,3,1360,34978,Monthly_Rent_INR
+Kukatpally,Rent,No,Yes,2,2,998,25796,Monthly_Rent_INR
+Madhapur,Sale,Yes,Yes,2,2,967,11177274,Sale_Price_INR
+ECIL,Sale,Yes,No,3,3,1477,8364851,Sale_Price_INR
+Gachibowli,Sale,Yes,No,4,3,2234,26936659,Sale_Price_INR
+ECIL,Sale,Yes,No,2,1,943,5107943,Sale_Price_INR
+Hitech City,Sale,No,Yes,2,1,1236,14006399,Sale_Price_INR
+Bowenpally,Rent,Yes,No,2,1,948,14097,Monthly_Rent_INR
+Kukatpally,Sale,No,No,3,3,1300,7724967,Sale_Price_INR
+ECIL,Sale,No,No,3,3,1315,6301812,Sale_Price_INR
+ECIL,Rent,No,No,2,2,1086,11323,Monthly_Rent_INR
+ECIL,Sale,No,No,3,3,1410,6023534,Sale_Price_INR
+Gachibowli,Rent,Yes,No,2,2,1094,38202,Monthly_Rent_INR
+ECIL,Rent,Yes,No,3,3,1321,13583,Monthly_Rent_INR
+Gachibowli,Rent,Yes,Yes,3,3,1431,59842,Monthly_Rent_INR
+ECIL,Rent,Yes,No,2,2,812,9174,Monthly_Rent_INR
+Ameerpet,Rent,Yes,No,2,2,952,24717,Monthly_Rent_INR
+Ameerpet,Rent,No,No,2,2,790,19267,Monthly_Rent_INR
+Sainikpuri,Rent,No,Yes,3,2,1642,18005,Monthly_Rent_INR
+Bowenpally,Sale,No,Yes,2,2,1226,9407273,Sale_Price_INR
+Bowenpally,Rent,No,No,2,2,1003,14826,Monthly_Rent_INR
+Gachibowli,Sale,Yes,No,3,3,1189,10821182,Sale_Price_INR
+Gachibowli,Sale,Yes,Yes,3,3,1418,15627133,Sale_Price_INR
+Madhapur,Rent,No,Yes,2,2,1195,38058,Monthly_Rent_INR
+Kompally,Sale,Yes,No,2,2,1317,9580211,Sale_Price_INR
+ECIL,Sale,Yes,No,1,1,590,3367197,Sale_Price_INR
+Ameerpet,Rent,No,Yes,1,1,628,15959,Monthly_Rent_INR
+ECIL,Rent,No,Yes,2,2,1195,12922,Monthly_Rent_INR
+Ameerpet,Sale,No,No,2,1,1099,7942485,Sale_Price_INR
+Bowenpally,Sale,Yes,No,2,1,1274,10773438,Sale_Price_INR
+ECIL,Rent,No,No,3,2,1565,17860,Monthly_Rent_INR
+Madhapur,Rent,Yes,No,3,2,1599,63679,Monthly_Rent_INR
+Kompally,Sale,Yes,No,2,2,1077,6810292,Sale_Price_INR
+Kukatpally,Rent,No,No,1,1,575,13864,Monthly_Rent_INR
+Hitech City,Sale,Yes,Yes,2,1,993,12395152,Sale_Price_INR
+Sainikpuri,Sale,No,No,4,4,1904,10538237,Sale_Price_INR
+Sainikpuri,Sale,No,Yes,3,3,1422,8993330,Sale_Price_INR
+Kompally,Rent,Yes,Yes,2,2,858,18538,Monthly_Rent_INR
+Hitech City,Sale,Yes,No,1,1,593,6308288,Sale_Price_INR
+Gachibowli,Sale,Yes,No,2,1,1172,11243023,Sale_Price_INR
+Hitech City,Rent,No,Yes,3,3,1434,55180,Monthly_Rent_INR
+ECIL,Sale,Yes,Yes,2,2,1202,6886864,Sale_Price_INR
+Kompally,Sale,No,Yes,3,3,1277,8180312,Sale_Price_INR
+Ameerpet,Rent,No,No,2,1,1098,27089,Monthly_Rent_INR
+Ameerpet,Rent,Yes,Yes,2,1,1121,31210,Monthly_Rent_INR
+Kukatpally,Sale,Yes,No,3,3,1480,8511733,Sale_Price_INR
+Hitech City,Sale,Yes,Yes,3,3,1414,17898867,Sale_Price_INR
+Kukatpally,Rent,Yes,No,2,1,1023,25383,Monthly_Rent_INR
+Bowenpally,Rent,Yes,No,3,3,1399,22409,Monthly_Rent_INR
+Kompally,Sale,Yes,No,2,2,1073,7363757,Sale_Price_INR
+Kukatpally,Rent,No,No,3,3,1470,34906,Monthly_Rent_INR
+ECIL,Rent,No,No,2,2,854,9444,Monthly_Rent_INR
+Gachibowli,Sale,No,No,2,2,1226,13283562,Sale_Price_INR
+Hitech City,Rent,No,No,2,1,952,34810,Monthly_Rent_INR
+Kukatpally,Sale,No,No,2,2,1227,6530013,Sale_Price_INR
+Alwal,Rent,Yes,Yes,2,1,904,11275,Monthly_Rent_INR
+Kukatpally,Sale,Yes,No,1,1,606,3639213,Sale_Price_INR
+Gachibowli,Rent,No,Yes,2,2,963,36181,Monthly_Rent_INR
+Madhapur,Sale,No,No,1,1,570,5836430,Sale_Price_INR
+Bowenpally,Sale,Yes,Yes,3,3,1530,11642634,Sale_Price_INR
+Sainikpuri,Rent,Yes,No,1,1,619,5563,Monthly_Rent_INR
+Alwal,Sale,Yes,No,2,2,988,7001593,Sale_Price_INR
+Bowenpally,Rent,Yes,No,3,3,1499,23076,Monthly_Rent_INR
+Ameerpet,Sale,No,Yes,3,3,1196,8173343,Sale_Price_INR
+Sainikpuri,Sale,Yes,No,3,2,1416,9120164,Sale_Price_INR
+Kompally,Rent,No,No,2,2,1083,16445,Monthly_Rent_INR
+Bowenpally,Sale,Yes,No,2,2,1179,9117145,Sale_Price_INR
+Gachibowli,Rent,No,No,2,1,868,30720,Monthly_Rent_INR
+Kompally,Rent,No,Yes,2,2,865,16664,Monthly_Rent_INR
+Bowenpally,Rent,No,No,2,1,964,13777,Monthly_Rent_INR
+Kompally,Rent,Yes,Yes,3,2,1239,27181,Monthly_Rent_INR
+Alwal,Sale,Yes,Yes,2,2,973,9107283,Sale_Price_INR
+Madhapur,Sale,Yes,No,2,1,819,8449650,Sale_Price_INR
+ECIL,Sale,Yes,No,2,1,1129,5723123,Sale_Price_INR
+Alwal,Sale,No,Yes,3,3,1403,9164632,Sale_Price_INR
+Ameerpet,Rent,Yes,No,2,1,1126,27466,Monthly_Rent_INR
+Alwal,Sale,Yes,Yes,2,1,1085,9003001,Sale_Price_INR
+Kompally,Sale,Yes,No,2,1,1088,7273011,Sale_Price_INR
+Hitech City,Rent,Yes,No,1,1,505,19940,Monthly_Rent_INR
+Ameerpet,Rent,Yes,Yes,1,1,624,15143,Monthly_Rent_INR
+Kompally,Rent,No,Yes,2,2,1084,18483,Monthly_Rent_INR
+Bowenpally,Rent,Yes,No,2,2,928,11649,Monthly_Rent_INR
+ECIL,Rent,No,No,3,3,1640,17397,Monthly_Rent_INR
+Gachibowli,Rent,No,No,2,2,1029,38081,Monthly_Rent_INR
+Hitech City,Sale,Yes,No,2,1,1254,15261677,Sale_Price_INR
+Kukatpally,Rent,Yes,No,2,2,1149,25791,Monthly_Rent_INR
+Ameerpet,Sale,Yes,Yes,2,2,1152,8613564,Sale_Price_INR
+Madhapur,Sale,No,Yes,2,2,1127,14306692,Sale_Price_INR
+Gachibowli,Rent,Yes,No,2,2,1145,38398,Monthly_Rent_INR
+Sainikpuri,Rent,No,No,2,1,1192,12293,Monthly_Rent_INR
+Madhapur,Sale,Yes,Yes,3,2,1354,15762491,Sale_Price_INR
+Kukatpally,Sale,Yes,Yes,2,2,1301,7732388,Sale_Price_INR
+Bowenpally,Sale,No,No,2,2,879,6810373,Sale_Price_INR
+Ameerpet,Sale,No,No,2,1,1069,7745838,Sale_Price_INR
+Ameerpet,Sale,No,No,2,2,1161,8145080,Sale_Price_INR
+Kukatpally,Rent,Yes,No,3,3,1735,42350,Monthly_Rent_INR
+ECIL,Rent,No,No,1,1,662,7886,Monthly_Rent_INR
+Kukatpally,Sale,Yes,No,3,3,1645,9981270,Sale_Price_INR
+Alwal,Sale,No,No,3,2,1635,11335703,Sale_Price_INR
+Madhapur,Sale,Yes,Yes,3,3,1457,13781639,Sale_Price_INR
+Alwal,Rent,Yes,No,2,1,937,11571,Monthly_Rent_INR
+Bowenpally,Sale,No,No,2,2,932,6745254,Sale_Price_INR
+Hitech City,Rent,Yes,No,2,2,1194,45320,Monthly_Rent_INR
+Kukatpally,Sale,Yes,No,4,4,1937,9926196,Sale_Price_INR
+Hitech City,Rent,Yes,No,3,3,1785,66543,Monthly_Rent_INR
+Ameerpet,Rent,Yes,No,2,2,1246,28954,Monthly_Rent_INR
+Kukatpally,Sale,No,No,2,2,1038,5905972,Sale_Price_INR
+Gachibowli,Sale,Yes,Yes,2,1,1040,13295894,Sale_Price_INR
+Ameerpet,Sale,Yes,No,3,3,1293,9404340,Sale_Price_INR
+Madhapur,Sale,No,No,2,2,1199,12959917,Sale_Price_INR
+Alwal,Sale,Yes,No,3,3,1243,8720071,Sale_Price_INR
+Hitech City,Sale,No,Yes,2,2,1196,13602118,Sale_Price_INR
+ECIL,Rent,Yes,No,2,2,876,8763,Monthly_Rent_INR
+Hitech City,Rent,Yes,Yes,2,2,971,38500,Monthly_Rent_INR
+Madhapur,Rent,Yes,No,4,4,1818,55166,Monthly_Rent_INR
+Gachibowli,Rent,Yes,No,2,2,1046,44519,Monthly_Rent_INR
+Bowenpally,Rent,Yes,Yes,2,2,1096,17380,Monthly_Rent_INR
+Ameerpet,Sale,Yes,No,3,2,1842,14437945,Sale_Price_INR
+Madhapur,Rent,No,No,2,1,1125,44312,Monthly_Rent_INR
