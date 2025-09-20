@@ -21,6 +21,10 @@ export default function SignIn() {
   };
   const handleSubmit = async (e) => {
     e.preventDefault();
+    if (!formData.email || !formData.password) {
+    alert('Please enter email and password');
+    return;
+  }
     try {
       dispatch(signInStart());
       const res = await fetch('/api/auth/signin', {
