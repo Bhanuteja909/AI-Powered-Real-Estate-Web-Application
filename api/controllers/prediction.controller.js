@@ -1,5 +1,9 @@
 import ort from 'onnxruntime-node';
 import path from 'path';
+import { fileURLToPath } from 'url';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 const saleModelPath = path.join(__dirname, '..', 'House_Price_Pridiction', 'best_sale_model.onnx');
 const rentModelPath = path.join(__dirname, '..', 'House_Price_Pridiction', 'best_rent_model.onnx');
