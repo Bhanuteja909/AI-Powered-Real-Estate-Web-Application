@@ -1,7 +1,7 @@
 import ort from 'onnxruntime-node';
 
-const saleModelPath = './House_Price_Pridiction/best_sale_model.onnx';
-const rentModelPath = './House_Price_Pridiction/best_rent_model.onnx';
+const saleModelPath = '../House_Price_Pridiction/best_sale_model.onnx';
+const rentModelPath = '../House_Price_Pridiction/best_rent_model.onnx';
 
 
 // Features order used while training
