@@ -10,20 +10,13 @@ import cookieParser from 'cookie-parser';
 import path from 'path';
 dotenv.config();
 
-const options = {
-  useNewUrlParser: true,
-  useUnifiedTopology: true,
-  serverSelectionTimeoutMS: 50000 // 10 seconds timeout
-};
-
-// Connect to MongoDB
 mongoose
-  .connect(process.env.MONGO, options)
+  .connect(process.env.MONGO)
   .then(() => {
     console.log('Connected to MongoDB!');
   })
   .catch((err) => {
-    console.log('MongoDB connection error:', err);
+    console.log(err);
   });
 
   const __dirname = path.resolve();
