@@ -243,7 +243,7 @@ const handlePredict = async () => {
           <button type='button' onClick={handlePredict} className='p-3 bg-blue-700 text-white rounded-lg uppercase hover:opacity-95 disabled:opacity-80'>
             Predict Price
           </button>
-          {prediction && <p className='text-white bg-green-900 text-center py-2 rounded-md  text-md'>${prediction}</p>}
+          {prediction && <p className='text-white bg-green-900 text-center py-2 rounded-md  text-md'>₹{prediction}</p>}
         </div>
       </form>
     </main>
